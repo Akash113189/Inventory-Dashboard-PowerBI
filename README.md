@@ -14,8 +14,7 @@ This Power BI dashboard provides insights into inventory levels and in-transit s
 - **Data transformation using Power Query**
 
 ## Dashboard Preview
-
-![Dashboard Screenshot](Screenshots/dashboard.png)
+![Dashboard Screenshot](Dashboard.jpeg)
 
 ## Features & Insights
 - **Warehouse Inventory Overview:** Breakdown of items in stock vs. in transit  
