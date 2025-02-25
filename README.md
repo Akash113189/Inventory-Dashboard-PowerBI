@@ -1,5 +1,4 @@
-# Inventory-Dashboard-PowerBI
-
+# Inventory & Supply Chain Insights Dashboard
 # Overview
 This Power BI dashboard provides insights into inventory levels and in-transit stock, categorized by warehouse, item status, and expiration dates. It features:
 ✅ KPI cards for quick insights  
