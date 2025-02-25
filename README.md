@@ -1,4 +1,4 @@
-# Inventory & In-Transit Dashboard 📊
+# Inventory-Dashboard-PowerBI
 
 # Overview
 This Power BI dashboard provides insights into inventory levels and in-transit stock, categorized by warehouse, item status, and expiration dates. It features:
